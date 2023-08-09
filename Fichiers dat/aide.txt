@@ -1,0 +1,28 @@
+					AIDE APPLICATION GESTION DE STOCK
+
+Cette application est destine a gerer les clients et produits de l'entreprise.
+Ainsi vous pourrez:
+
+	1.Acceder au menu produit dans lequel il est possible:
+		-d'ajouter un produit en tapant '1', les consignes pour cette action vous seront alors donnees.
+		-de supprimer un produit en tapant '2', les consignes pour cette action vous seront alors donnees.
+		-de rechercher un produit, par deux moyens qui sont le nom ou l'ID du client en tapant '3',les consignes pour cette action vous seront alors donnees.
+		-de consulter la liste des produits de l'entreprise en tapant '4'.
+		-de modifier un produit en tapant '5', les consignes pour cette action vous seront alors donnees.
+		-de vendre un produit en tapant '6', les consignes pour cette action vous seront alors donnees.
+		-de consulter l'historique des ventes de l'entreprise en tapant '7'.
+		-de consulter les 3 produits au top des ventes en tapant '8'.
+		-de quitter l'application en tapant '9'.
+
+
+
+ 	2.Acceder au menu client en tapant '2',dans lequel il est possible:
+		-d'ajouter un client en tapant '1', les consignes pour cette action vous seront alors donnees.
+		-de supprimer un client en tapant '2', les consignes pour cette action vous seront alors donnees.
+		-de rechercher un client, par deux moyens qui sont le nom et l'ID du client en tapant '3',les consignes pour cette action vous seront alors donnees.
+		-de consulter la liste des clients de l'entreprise en tapant '4'.
+		-de modifier un client en tapant '5', les consignes pour cette action vous seront alors donnees.
+		-de quitter l'application en tapant '6'.
+
+
+	3.Pour consulter vos factures, ouvrez votre fichier intitule "Facture.dat".
